@@ -1,4 +1,4 @@
-nlp-sentimentos-reclameaqui/
-│
-├── app.py
-├── requirements.txt
+streamlit
+transformers
+torch
+emoji
