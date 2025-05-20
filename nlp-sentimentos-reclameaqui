@@ -1,0 +1,4 @@
+nlp-sentimentos-reclameaqui/
+│
+├── app.py
+├── requirements.txt
